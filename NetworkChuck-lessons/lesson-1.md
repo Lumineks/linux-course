@@ -12,6 +12,8 @@ Simply prints current directory.
 
 2. `ls` - stands for 'list'
 
+Flags: '-l' stands for 'long'. Prints more info about files
+
 Prints files and folders names in the current directory.
 
 3. `cd <path>` - stands for 'change directory'
