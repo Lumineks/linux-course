@@ -1,6 +1,6 @@
-# NetworkChuck course. Lesson 1
+# NetworkChuck course. Lesson 2
 
-## Video course - https://youtu.be/A3G-3hp88mo
+## Video lesson - https://youtu.be/A3G-3hp88mo
 
 ## Commands:
 
